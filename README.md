@@ -8,3 +8,6 @@ A list of resources for learning ML in Javascript. Feel free to add your review 
 
 # NodeJS repo's on ML:
 1. https://github.com/mljs/ml
+
+# Other resources:
+1. [CodingTrain - Machine Learning list](https://github.com/CodingTrain/Machine-Learning)
